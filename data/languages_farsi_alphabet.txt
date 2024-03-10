@@ -1,1 +1,3 @@
-source: https://en.wikipedia.org/w/index.php?title=Persian_alphabet&oldid=1211465730
+[sources]
+'https://en.wikipedia.org/w/index.php?title=Persian_alphabet&oldid=1211465730'
+'https://en.wikipedia.org/w/index.php?title=Romanization_of_Persian&oldid=1211880037'
